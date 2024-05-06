@@ -1,5 +1,5 @@
 +++
-title = "Trauer, Hoffnung und den Wag durch die Dunkelheit"
+title = "Trauer, Hoffnung und den Weg durch die Dunkelheit"
 date = "2024-05-06"
 draft = false
 pinned = true
