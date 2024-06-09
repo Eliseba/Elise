@@ -6,11 +6,15 @@ pinned = true
 tags = ["Deutsch", "Reportage"]
 image = "pexels-aaronburden-2449543-3-.jpg"
 +++
-*<hr>*
+<hr>
 
-*Die stille Kraft der Trauer: Eine zutiefst menschliche Reise durch Verlust und Schmerz, begleitet von der Suche nach Trost und Heilung.*
+{{<lead>}}
 
-*<hr>*
+Die stille Kraft der Trauer: Eine zutiefst menschliche Reise durch Verlust und Schmerz, begleitet von der Suche nach Trost und Heilung.
+
+{{</lead>}}
+
+<hr>
 
 ## Ehemaliger Mitschüler verunglückt
 
@@ -18,6 +22,8 @@ Am sonnigen Montagnachmittag des 27. Juli 2020 im Muribad am Ufer der Aare verwa
 Während eine Gruppe Mädchen in der kühlen Aare schwammen, verbrachten Jungs den Nachmittag am Flussufer oberhalb des Schwimmbads. Die glückliche Atmosphäre wurde unterbrochen, als schrillende Sirenen die Menschen übertönten. Ein Ball war ins Wasser gefallen, und im Versuch, ihn zu holen, stürzte einer der Jungen hinein und konnte wegen Treibholzablagerungen nicht mehr herauskommen. Einsatzkräfte der Kantonspolizei Bern konnten den Jungen wenig später im Bereich der Unfallstelle in der Aare lokalisieren und aus dem Fluss retten. Die Nachricht verbreitete sich schnell unter den Jugendlichen und bald wusste es alle, die den Jungen kannten. Die Realität des Geschehenen traf nach ein paar Tage ein, als das Opfer im Spital starb. Für die Betreuung der Betroffenen, die fast alle dreizehnjährige sind, wurde das Care Team aufgeboten. Wie geht man mit diesem plötzlichen Verlust um? Die Akzeptanz des Verlustes eines Menschen in einem jungen Alter ist besonders schwer für die Familie sowohl als auch für Freunde, die auch nur Kinder sind. Deshalb ist es wichtig zu wissen, wie man damit umgehen kann. In dieser Reportage werden Sie die Sicht einer Spezialistin und auch Personen, die oft mit dem Tod konfrontiert sind, sehen. Dabei erfährst du, was die Trauerreaktionen sind, wie man mit der Trauer des Verlustes umgehen soll und weitere relevante Themen.
 
 ## Die Bedeutung von Trauer
+
+
 
 «Jeder Mensch verhält sich verschieden auf Verluste» wird mehrmals in der Praxis in Bern von Bettina Hufschmied, die Psychotherapeutin erwähnt. Laut Frau Hufschmied ist die häufigste erste Reaktion nach dem Verlust eines geliebten Menschen Schock. Dies gilt auch wenn man den Tod erwartet hat. Allgemein gibt es zwei vereinfachte Trauerreaktionen: Die einfache und die komplizierte Trauerreaktion. Der Verlauf der einfachen Trauerreaktion besteht darin, sich an die Realität anzupassen, das heisst, sich ohne die verstorbene Person an das Leben zu gewöhnen. Ebenfalls nimmt die Intensität der Trauer nach einiger Zeit ab. Bei der komplizierter Trauerreaktion hingegen kann es zu Verzögerungen der Trauerreaktionen kommen. Sie sind mit starken, impulsiven emotionalen Reaktionen wie Wut, Schuldgefühlen und Angst geprägt und haben keine kontinuierliche Abnahme der Trauerintensität. Die Trauer wird oft nicht als Traurigkeit erlebt. Die Anpassung an die neue Wirklichkeit gelingt dem Trauernden auch nicht. Die Symptomatik einer einfachen Trauerreaktion hält sich mit einem Rückzug und häufigem Weinen begrenzt. Dagegen ist die Symptomatik der komplizierten Trauerreaktion intensiver. Panikattacken, depressive Reaktion, Reizbarkeit, das Gefühl von innerlicher Leere und allgemeine Sinnlosigkeit sind Beispiele dafür. Einfache Trauerreaktionen haben keine gesundheitlichen Folgen, aber soziale Folgen wie kurzfristiger Rückzug aus dem gewohnten sozialen Umfeld. Die Trauernde, welche eine komplizierte Trauerreaktion erleben, haben oft Schlaf- und Essstörungen, erhöhte Anfälligkeit für Infektionserkrankungen, vernachlässigen soziale Interaktionen und Vereinsamen. Die Anerkennung sowohl einfacher als auch komplizierter Trauerreaktion zeigt eine Vielfalt. Frau Hufschmied ist der Meinung, dass anhaltende Symptome der komplizierten Trauer ein Zeichen sind, sich professionelle Hilfe in Anspruch zu nehmen. Ein Alarmzeichen wäre, wenn es über Monate sich genau gleich anfühlt und die Symptome nicht schwächer werden oder Vermeidung und Ablenkung wie zum Beispiel Alkohol- und Drogenkonsum. Diese langhaltende Belastung zeigt sich auch in der Verarbeitung von Trauer. Diese Verarbeitung ist schmerzlich, denn die Realitätsprüfung zeigt, dass die geliebte Person nicht mehr existiert und deshalb die Aufforderung (an das Ich) besteht. Ein Beispiel der klassischen Auffassung der Trauerarbeit ist das Fünf-Stufen Modell nach Kübler-Roll: 1) Verleugnen und Isolation– der Verlust wird verleugnet, nicht wahrgenommen, die Betroffenen ziehen sich zurück; 2) Ärger über das Schicksal, über sich selbst, über die verstorbene Person; 3) Verhandlungsphase – Trauernde versuchen, das Schicksal mit besonderen Verhalten gnädig zu stimmen; 4) Depression – Verlust des Interesses, der Motivation, der Gefühle; 5) Akzeptanz des Geschehenen und damit Abschluss der Trauer. Zweifellos erleben viele Trauernde Zustände, die solchen Phasen entsprechen. Gemäss der Psychotherapeutin ist dieses Modell nicht mehr auf dem neusten Stande und man spricht heutzutage eher von Trauerthemen. Diese vier Themen sind 1) Trauerschmerz – Den Tod zu erfahren und zu trauern 2) Realität und Verlust akzeptieren 3) Sich der Umwelt anpassen- das Leben ohne die Person weiterzuführen (Alltag bewältigen) 4) der verstorbenen Person Platz zu geben hängt auch mit der Akzeptanz zusammen. 
 Diese Themen tauchen auch nicht unbedingt chronologisch auf und können sehr unterschiedlich dauern. Ebenfalls können sie von Person zu Person stark variieren. 
