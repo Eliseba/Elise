@@ -4,7 +4,7 @@ date = "2024-05-06"
 draft = false
 pinned = true
 tags = ["Deutsch", "Reportage"]
-image = "pexels-aaronburden-2449543-3-.jpg"
+image = "unbenanntes_projekt-2024-06-09-16_11_04.png"
 +++
 <hr>
 
