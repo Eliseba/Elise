@@ -25,7 +25,11 @@ Während eine Gruppe Mädchen in der kühlen Aare schwammen, verbrachten Jungs d
 
 {{<box>}}
 
-hahahahhaha
+**Bettina Hufschmied**
+
+* 1978 in Burgdorf geboren
+* Fachtitel "Beraterin sGfB"
+* Psychotherapeutin in Ihre eigene Praxis seit 2021
 
 {{</box>}}
 
