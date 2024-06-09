@@ -41,6 +41,8 @@ Ein tieferes Verständnis dieser Prozesse ist essenziell, sodass man auch komple
 
 ## Ein neues Hospiz in Bern?
 
+
+
 ![](bild1-1-.png)
 
 ![](bild3.png)
