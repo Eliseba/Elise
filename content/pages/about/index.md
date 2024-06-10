@@ -6,8 +6,6 @@ description = ""
 +++
 ![](unbenanntes_projekt-2024-06-09-16_05_56.png)
 
-## My Name
+# Elise Bavaud
 
-mail@example.org
-
-Here should be some info about me...
+elise.bavaud@mygymer.ch
