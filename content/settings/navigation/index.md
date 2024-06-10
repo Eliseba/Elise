@@ -7,5 +7,5 @@ url = "/"
 
 [[link]]
 title = "About me"
-url = "/about/ "
+url = "/about/"
 +++
