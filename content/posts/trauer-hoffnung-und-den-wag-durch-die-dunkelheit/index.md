@@ -5,7 +5,7 @@ draft = false
 pinned = true
 tags = ["Deutsch", "Reportage"]
 image = "unbenanntes_projekt-2024-06-09-16_11_04.png"
-footnotes = "Von Elise Bavaud und Aranki, M26f Gymnasium Kirchenfeld"
+footnotes = "Von Elise Bavaud und Aranki Sivashangar, M26f Gymnasium Kirchenfeld"
 +++
 <hr>
 
